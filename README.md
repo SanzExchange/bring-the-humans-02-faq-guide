@@ -106,6 +106,16 @@ through your link and verifies, that signup counts toward your total. If two peo
 have the same number of verified signups, the earlier verified signup wins the tie, so
 sharing your link early matters.
 
+**Q: How do I know my referral signups are counting?**
+
+A: Open the bounty leaderboard page for bring-the-humans-02 and look for your own
+entry. Your verified signup count appears there. Counts update as signups verify, not
+the second someone clicks your link — a click is not a signup, and a signup is not
+verified until the new account completes verification. If a friend signed up through
+your link and does not appear after a day, ask them to confirm they used your link
+(`https://make.fun/r/m0rbcsp4`) and finished verification; a signup from the plain
+homepage without your code cannot be credited to you afterwards.
+
 **Q: When does this bounty close?**
 
 A: Entries close on 21 November 2026 at 17:30 WIB. Do not leave your submission to the
